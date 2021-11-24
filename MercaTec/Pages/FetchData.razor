@@ -1,0 +1,130 @@
+﻿@page "/productos"
+
+@using MercaTec.Data
+@using Microsoft.WindowsAzure.Storage;
+@using Microsoft.WindowsAzure.Storage.Table;
+@using System.Threading.Tasks;
+@using System.Linq;
+@using System.Collections.Generic;
+
+
+
+<div class="card card-body text-center font-weight-bolder mb-3">
+    <h2>Productos</h2>
+    <h5>Aquí encontrarás todos los productos publicados.</h5>
+</div>
+
+
+<div id="productos" class="row">
+    @foreach (Productos p in ProductList)
+    {
+        <div class="col col-lg-4 col-md-6 col-sm-12 col-12 col-xl-4">
+            <div class="card" style="width: auto">
+                <div class="card-header text-center font-weight-bolder">@p.RowKey</div>
+                <img src="@p.Imagen" class="card-img-top img-thumbnail" alt="@p.RowKey">
+                <div class="card-body">
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <p>Vendedor: @p.NombreVendedor</p>
+                            <p>@p.Contacto <i class="fas fa-phone"></i></p>
+                        </div>
+                        <div class="col">
+                            <p>@p.DetallesProducto</p>
+                            <p>Condicion: @p.Condicion</p>
+                            <p>Precio: $@p.PrecioProducto</p>
+                            <p>Existencias: @p.Unidades</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+
+
+@code {
+   
+
+    List<Productos> ProductList = new List<Productos>();
+    List<TableFields> TableFieldsLst = new List<TableFields>();
+    string imagen;
+    protected override async Task OnInitializedAsync()
+    {
+        var cuentaAlmacenamiento = CloudStorageAccount.Parse("");
+        var tablaNoSQL = cuentaAlmacenamiento.CreateCloudTableClient();
+        var tabla = tablaNoSQL.GetTableReference("MercaTec");
+        var consulta = new TableQuery<Productos>();
+        TableContinuationToken token = null;
+        try
+        {
+            var datos = await tabla.ExecuteQuerySegmentedAsync<Productos>(consulta, token, null, null);
+            ProductList.AddRange(datos.Results);
+
+            int iNombrep = 0;
+            int iCondicion = 0;
+            int iContacto = 0;
+            int iDetallesp = 0;
+            int iEstatus = 0;
+            int iImagen = 0;
+            int iNombrev = 0;
+            int iPreciop = 0;
+            int iUnidades = 0;
+            TableFieldsLst = ProductList.Select(r => new TableFields()
+            {
+                NombreProducto = ProductList.ElementAt(iNombrep++).RowKey,
+                Condicion = ProductList.ElementAt(iCondicion++).Condicion,
+                Contacto = ProductList.ElementAt(iContacto++).Contacto,
+                DetallesProducto = ProductList.ElementAt(iDetallesp++).DetallesProducto,
+                Estatus = ProductList.ElementAt(iEstatus++).Estatus,
+                Imagen = ProductList.ElementAt(iImagen++).Imagen,
+                NombreVendedor = ProductList.ElementAt(iNombrev++).NombreVendedor,
+                PrecioProducto = ProductList.ElementAt(iPreciop++).PrecioProducto,
+                Unidades = ProductList.ElementAt(iUnidades++).Unidades
+            }).ToList();
+        }
+        catch (Exception)
+        {
+
+            throw;
+        }
+    }
+
+
+
+
+    public class Productos : TableEntity
+    {
+        public Productos(string Categoria, string NombreProducto)
+        {
+            PartitionKey = Categoria;
+            RowKey = NombreProducto;
+        }
+        public Productos() { }
+        public string Condicion { get; set; }
+        public string Contacto { get; set; }
+        public string DetallesProducto { get; set; }
+        public string Estatus { get; set; }
+        public string Imagen { get; set; }
+        public string NombreVendedor { get; set; }
+        public double PrecioProducto { get; set; }
+        public int Unidades { get; set; }
+    }
+
+    public class TableFields
+    {
+        public string NombreProducto { get; set; }
+        public string Condicion { get; set; }
+        public string Contacto { get; set; }
+        public string DetallesProducto { get; set; }
+        public string Estatus { get; set; }
+        public string Imagen { get; set; }
+        public string NombreVendedor { get; set; }
+        public double PrecioProducto { get; set; }
+        public int Unidades { get; set; }
+    }
+
+
+
+}

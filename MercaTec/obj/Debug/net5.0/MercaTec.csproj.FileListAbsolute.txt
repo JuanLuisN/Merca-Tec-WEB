@@ -1,0 +1,120 @@
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\appsettings.json
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.StaticWebAssets.xml
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.exe
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.deps.json
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.runtimeconfig.json
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.runtimeconfig.dev.json
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\ref\MercaTec.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.pdb
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.Views.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.Views.pdb
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.AssemblyInfoInputs.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.AssemblyInfo.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.csproj.CoreCompileInputs.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorComponent.input.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorComponent.output.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\MercaTec.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.TagHelpers.input.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.TagHelpers.output.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorCoreGenerate.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorAssemblyInfo.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorAssemblyInfo.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\staticwebassets\MercaTec.StaticWebAssets.Manifest.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\staticwebassets\MercaTec.StaticWebAssets.xml
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\bundle\MercaTec.styles.css
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\projectbundle\MercaTec.bundle.scp.css
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorTargetAssemblyInfo.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorTargetAssemblyInfo.cs
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.Views.pdb
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\ref\MercaTec.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.pdb
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.genruntimeconfig.cache
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.csproj.CopyComplete
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Zamblar\source\repos\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.csproj.AssemblyReference.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\appsettings.json
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.StaticWebAssets.xml
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.exe
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.deps.json
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.runtimeconfig.json
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.runtimeconfig.dev.json
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\ref\MercaTec.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.pdb
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.Views.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\MercaTec.Views.pdb
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.csproj.AssemblyReference.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.AssemblyInfoInputs.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.AssemblyInfo.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.csproj.CoreCompileInputs.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorComponent.input.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorComponent.output.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\RazorDeclaration\MercaTec.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.TagHelpers.input.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.TagHelpers.output.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorCoreGenerate.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorAssemblyInfo.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorAssemblyInfo.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\staticwebassets\MercaTec.StaticWebAssets.Manifest.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\staticwebassets\MercaTec.StaticWebAssets.xml
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\bundle\MercaTec.styles.css
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\scopedcss\projectbundle\MercaTec.bundle.scp.css
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorTargetAssemblyInfo.cache
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.RazorTargetAssemblyInfo.cs
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.Views.pdb
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.csproj.CopyComplete
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\ref\MercaTec.dll
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.pdb
+C:\Users\juan-\Downloads\MercaTec (1)\MercaTec\MercaTec\obj\Debug\net5.0\MercaTec.genruntimeconfig.cache
